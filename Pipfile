@@ -84,7 +84,7 @@ PyJWT = "==1.6.4"
 pyOpenSSL = "==18.0.0"
 PySocks = "==1.6.8"
 django-bower = "*"
-psycopg2 = "==2.7.1"
+psycopg2 = "==2.5.1"
 
 [dev-packages]
 
